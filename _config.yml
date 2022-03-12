@@ -15,9 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: YVR EMA Project Sensor Documentation
 description: Documentation for the Smart Device sensors
-baseurl: "/sensor-docs" # the subpath of your site, e.g. /blog
+baseurl: "/smart-device-sensor-docs/docs" # the subpath of your site, e.g. /blog
 url: "https://bcit-reseach-long-term-issp.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-
+# https://bcit-reseach-long-term-issp.github.io/smart-device-sensor-docs/
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
 , "docs/tests/"
