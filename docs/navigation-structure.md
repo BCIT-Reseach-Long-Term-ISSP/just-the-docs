@@ -32,7 +32,7 @@ By default, all pages will appear as top level pages in the main nav unless a pa
 To specify a page order, you can use the `nav_order` parameter in your pages' YAML front matter.
 
 #### Example
-
+<!-- 
 {: .no_toc }
 
 ```yaml
@@ -42,7 +42,7 @@ title: Customization
 nav_order: 4
 ---
 
-```
+``` -->
 
 The parameter values determine the order of the top-level pages, and of child pages with the same parent. You can reuse the same parameter values (e.g., integers starting from 1) for the child pages of different parents.
 
@@ -114,7 +114,7 @@ On the parent pages, add this YAML front matter parameter:
 
 #### Example
 
-{: .no_toc }
+<!-- {: .no_toc }
 
 ```yaml
 ---
@@ -124,7 +124,7 @@ nav_order: 2
 has_children: true
 ---
 
-```
+``` -->
 
 Here we're setting up the UI Components landing page that is available at `/docs/ui-components`, which has children and is ordered second in the main nav.
 
@@ -136,7 +136,7 @@ On child pages, simply set the `parent:` YAML front matter to whatever the paren
 
 #### Example
 
-{: .no_toc }
+<!-- {: .no_toc }
 
 ```yaml
 ---
@@ -146,7 +146,7 @@ parent: UI Components
 nav_order: 2
 ---
 
-```
+``` -->
 
 The Buttons page appears as a child of UI Components and appears second in the UI Components section.
 
@@ -155,7 +155,7 @@ The Buttons page appears as a child of UI Components and appears second in the U
 By default, all pages with children will automatically append a Table of Contents which lists the child pages after the parent page's content. To disable this auto Table of Contents, set `has_toc: false` in the parent page's YAML front matter.
 
 #### Example
-
+<!-- 
 {: .no_toc }
 
 ```yaml
@@ -167,7 +167,7 @@ has_children: true
 has_toc: false
 ---
 
-```
+```  -->
 
 ### Children with children
 
@@ -180,7 +180,7 @@ Child pages can also have children (grandchildren). This is achieved by using a 
 
 #### Example
 
-{: .no_toc }
+<!-- {: .no_toc }
 
 ```yaml
 ---
@@ -202,7 +202,7 @@ grand_parent: UI Components
 nav_order: 1
 ---
 
-```
+``` -->
 
 This would create the following navigation structure:
 
