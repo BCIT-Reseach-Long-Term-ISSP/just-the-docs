@@ -2,6 +2,7 @@
 layout: default
 title: Navigation Structure
 nav_order: 6
+nav_exclude: true
 ---
 
 # Navigation Structure
@@ -285,7 +286,7 @@ The Table of Contents can be made collapsible using the `<details>` and `<summar
 ---
 layout: default
 title: Sensors
-nav_order: 6
+nav_order: 1
 has_children: true
 ---
 
