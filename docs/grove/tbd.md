@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Turbidity - Grove
+title: Turbidity
 parent: Grove
 grand_parent: Sensors
 ---

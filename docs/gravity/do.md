@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dissolved Oxygen - Gravity
+title: Dissolved Oxygen
 parent: Gravity
 grand_parent: Sensors
 ---

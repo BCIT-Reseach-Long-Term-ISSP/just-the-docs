@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Total Dissolved Solids - Gravity
+title: Total Dissolved Solids
 parent: Gravity
 grand_parent: Sensors
 ---

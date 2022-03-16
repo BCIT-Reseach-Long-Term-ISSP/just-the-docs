@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Water Flow - Gravity
+title: Water Flow
 parent: Gravity
 grand_parent: Sensors
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Total Dissolved Solids - Grove
+title: Total Dissolved Solids
 parent: Grove
 grand_parent: Sensors
 ---

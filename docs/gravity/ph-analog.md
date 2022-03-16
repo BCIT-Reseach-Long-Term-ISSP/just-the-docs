@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PH Sensor - Gravity
+title: PH Sensor
 parent: Gravity
 grand_parent: Sensors
 ---

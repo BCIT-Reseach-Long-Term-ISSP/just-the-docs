@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Liquid Level - Gravity
+title: Liquid Level
 parent: Gravity
 grand_parent: Sensors
 ---

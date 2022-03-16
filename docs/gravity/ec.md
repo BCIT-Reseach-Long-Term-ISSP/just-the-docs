@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Electrical Conductivity - Gravity
+title: Electrical Conductivity
 parent: Gravity
 grand_parent: Sensors
 ---
