@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Turbidity - Gravity
-parent: Sensors
+parent: Gravity
+grand_parent: Sensors
 ---
 
 # Turbidity Sensor

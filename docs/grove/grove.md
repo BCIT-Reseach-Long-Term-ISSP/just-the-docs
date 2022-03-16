@@ -3,6 +3,7 @@ layout: default
 title: Grove
 has_children: true
 permalink: /docs/sensors/grove
+has_toc: false
 ---
 
 # Grove Sensors

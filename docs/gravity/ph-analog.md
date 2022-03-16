@@ -1,7 +1,8 @@
 ---
 layout: default
 title: PH Sensor - Gravity
-parent: Sensors
+parent: Gravity
+grand_parent: Sensors
 ---
 
 # Analog PH Sensor

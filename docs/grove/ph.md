@@ -1,7 +1,8 @@
 ---
 layout: default
 title: PH - Grove
-parent: Sensors
+parent: Grove
+grand_parent: Sensors
 ---
 
 # PH Sensor

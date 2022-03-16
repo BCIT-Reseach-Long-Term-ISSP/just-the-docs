@@ -3,6 +3,7 @@ layout: default
 title: Gravity
 has_children: true
 permalink: /docs/sensors/gravity
+has_toc: false
 ---
 
 # Gravity Sensors
