@@ -1,13 +1,13 @@
 ---
 layout: default
-title: PH - Grove
+title: Electrical Conductivity - Gravity
 parent: Sensors
-nav_order: 6
+nav_order: 1
 ---
 
-# PH Sensor
+# Electrical Conductivity Sensor
 {: .no_toc }
-## Grove
+## Gravity
 {: .no_toc }
 
 ## Table of contents
@@ -20,7 +20,7 @@ nav_order: 6
 
 ## Summary
 
-A PH sensor.
+A Electrical Conductivity sensor.
 
 ---
 
@@ -29,9 +29,9 @@ A PH sensor.
 <div class="code-example" markdown="1">
 ```json
 {
-  name: "ph",       # string
-  data_type: "pH",  # string
-  data_value:       # float
+  name: "ec",           # string
+  data_type: "ms/cm",   # string -- microsiemens/centimeter
+  data_value:          # float
 }
 ```
 </div>

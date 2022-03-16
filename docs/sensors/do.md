@@ -1,13 +1,13 @@
 ---
 layout: default
-title: PH - Grove
+title: Dissolved Oxygen - Gravity
 parent: Sensors
-nav_order: 6
+nav_order: 4
 ---
 
-# PH Sensor
+# Dissolved Oxygen Sensor
 {: .no_toc }
-## Grove
+## Gravity
 {: .no_toc }
 
 ## Table of contents
@@ -20,7 +20,7 @@ nav_order: 6
 
 ## Summary
 
-A PH sensor.
+A Dissolved Oxygen sensor.
 
 ---
 
@@ -29,9 +29,9 @@ A PH sensor.
 <div class="code-example" markdown="1">
 ```json
 {
-  name: "ph",       # string
-  data_type: "pH",  # string
-  data_value:       # float
+  name: "do",          # string
+  data_type: "%Sat",   # string -- percent saturation
+  data_value:          # float
 }
 ```
 </div>

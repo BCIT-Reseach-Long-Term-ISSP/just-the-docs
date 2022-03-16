@@ -1,13 +1,13 @@
 ---
 layout: default
-title: PH - Grove
+title: PH Sensor - Gravity
 parent: Sensors
-nav_order: 6
+nav_order: 5
 ---
 
-# PH Sensor
+# Analog PH Sensor
 {: .no_toc }
-## Grove
+## Gravity
 {: .no_toc }
 
 ## Table of contents

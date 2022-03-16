@@ -1,13 +1,13 @@
 ---
 layout: default
-title: PH - Grove
+title: Water Flow - Gravity
 parent: Sensors
-nav_order: 6
+nav_order: 2
 ---
 
-# PH Sensor
+# Water Flow Sensor
 {: .no_toc }
-## Grove
+## Gravity
 {: .no_toc }
 
 ## Table of contents
@@ -20,7 +20,7 @@ nav_order: 6
 
 ## Summary
 
-A PH sensor.
+A Water Flow sensor.
 
 ---
 
@@ -29,9 +29,9 @@ A PH sensor.
 <div class="code-example" markdown="1">
 ```json
 {
-  name: "ph",       # string
-  data_type: "pH",  # string
-  data_value:       # float
+  name: "wf",          # string
+  data_type: "L/s",    # string -- microsiemens/centimeter
+  data_value:          # float
 }
 ```
 </div>
