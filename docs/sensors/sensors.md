@@ -5,7 +5,7 @@ has_children: true
 permalink: /docs/sensors
 ---
 
-#Sensors
+# Arduino Sensors
 
-To make it as easy as possible to write documentation in plain Markdown, most Sensors are styled using default Markdown elements with few additional CSS classes needed.
+The inventory of sensors in use or have been considered to be used by our team. 
 {: .fs-6 .fw-300 }
