@@ -2,7 +2,6 @@
 layout: default
 title: Turbidity - Grove
 parent: Sensors
-nav_order: 8
 ---
 
 # Turbidity Sensor

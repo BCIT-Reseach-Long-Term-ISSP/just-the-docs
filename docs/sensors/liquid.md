@@ -2,7 +2,6 @@
 layout: default
 title: Liquid Level - Gravity
 parent: Sensors
-nav_order: 9
 ---
 
 # Liquid Level Sensor

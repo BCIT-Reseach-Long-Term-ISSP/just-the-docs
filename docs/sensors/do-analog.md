@@ -2,7 +2,6 @@
 layout: default
 title: Dissolved Oxygen - Gravity
 parent: Sensors
-nav_order: 3
 ---
 
 # Dissolved Oxygen Sensor

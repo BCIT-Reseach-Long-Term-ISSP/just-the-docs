@@ -2,7 +2,6 @@
 layout: default
 title: Turbidity - Gravity
 parent: Sensors
-nav_order: 7
 ---
 
 # Turbidity Sensor

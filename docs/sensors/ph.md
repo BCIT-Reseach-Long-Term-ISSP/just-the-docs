@@ -2,7 +2,6 @@
 layout: default
 title: PH - Grove
 parent: Sensors
-nav_order: 6
 ---
 
 # PH Sensor

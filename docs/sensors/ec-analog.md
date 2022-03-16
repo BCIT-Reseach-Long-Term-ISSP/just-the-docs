@@ -2,7 +2,6 @@
 layout: default
 title: Water Flow - Gravity
 parent: Sensors
-nav_order: 2
 ---
 
 # Water Flow Sensor

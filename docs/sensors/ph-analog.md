@@ -2,7 +2,6 @@
 layout: default
 title: PH Sensor - Gravity
 parent: Sensors
-nav_order: 5
 ---
 
 # Analog PH Sensor

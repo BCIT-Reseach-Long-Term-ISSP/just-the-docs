@@ -2,7 +2,6 @@
 layout: default
 title: Water Pressure - Gravity
 parent: Sensors
-nav_order: 11
 ---
 
 # Water Pressure Sensor
