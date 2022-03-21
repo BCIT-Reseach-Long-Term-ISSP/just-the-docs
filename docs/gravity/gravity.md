@@ -2,7 +2,7 @@
 layout: default
 title: Gravity
 has_children: true
-permalink: /docs/sensors/gravity
+permalink: /docs/sensors/other
 has_toc: false
 parent: Sensors
 ---
