@@ -7,6 +7,11 @@ has_toc: false
 parent: Sensors
 ---
 
+# Digital Temperature Sensor
+{: .no_toc }
+
+---
+
 ## Summary
 
 A Waterproof DS18B20 Digital Temperature Sensor for Arduino.
