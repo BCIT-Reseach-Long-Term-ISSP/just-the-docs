@@ -13,11 +13,18 @@ This section provides an overview of how sensor data is sent to the AWS Broker.
 ## Broker Namespace Topic
 
 All data is sent to the data subtopic of a designated Buoy ID.
-For example:
 
 <div class="code-example" markdown="1">
 ```
 $aws/<version#>/<buoy_id>/data/
+```
+</div>
+
+For example (data for Buoy ID = 1, version 0 of this project):
+
+<div class="code-example" markdown="1">
+```
+$aws/0/1/data/
 ```
 </div>
 
