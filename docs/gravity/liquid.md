@@ -31,7 +31,7 @@ A Non-Contact Liquid Level sensor.
 {
   name: "liqlev",      # string
   data_type: "",    # string
-  data_value:       # boolean
+  data_value:       # boolean -- liquid detected
 }
 ```
 </div>

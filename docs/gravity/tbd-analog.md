@@ -30,7 +30,7 @@ A Turbidity sensor.
 ```json
 {
   name: "tbd",      # string
-  data_type: "V",   # string
+  data_type: "NTU", # string -- nephelometric turbidity units
   data_value:       # float
 }
 ```
