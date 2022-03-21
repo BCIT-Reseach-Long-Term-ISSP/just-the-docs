@@ -2,7 +2,7 @@
 layout: default
 title: Digital Temperature
 has_children: false
-permalink: /docs/sensors
+permalink: /docs/sensors/Temperature_Sensor
 has_toc: false
 parent: Sensors
 ---
