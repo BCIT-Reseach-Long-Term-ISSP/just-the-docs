@@ -49,15 +49,15 @@ For example (Buoy with all sensors):
 <div class="code-example" markdown="1">
 ```json
 {
-  "do": 80.3,      # Dissolved Oxygen Sensor
-  "ec": 250.21,    # Electrical Conductivity Sensor
-  "liqlev": true,  # Liquid Level Sensor
+  "do": 80.3,      # Dissolved Oxygen Sensor (%Sat)
+  "ec": 250.21,    # Electrical Conductivity Sensor (ms/cm)
+  "liqlev": true,  # Liquid Level Sensor (boolean)
   "ph": 7.03,      # PH Sensor
-  "tds": 550.96,   # Total Dissolved Solids Sensor
-  "tbd": 0.8,      # Turbidity Sensor
-  "wf": 1.904,     # Water Flow Sensor
-  "wp": 9.81,      # Water Pressure Sensor
-  "temp" : 20.34   # Temperature Sensor
+  "tds": 550.96,   # Total Dissolved Solids Sensor (ppm)
+  "tbd": 0.8,      # Turbidity Sensor (NTU)
+  "wf": 1.904,     # Water Flow Sensor (L/s)
+  "wp": 9.81,      # Water Pressure Sensor (kpa)
+  "temp" : 20.34   # Temperature Sensor (Degree C)
 }
 ```
 </div>
