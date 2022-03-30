@@ -2,7 +2,8 @@
 layout: default
 title: Sensors
 has_children: true
-permalink: /docs/sensors
+permalink: /docs/smart-device/sensors
+parent: smart-device
 ---
 
 # Arduino Sensors

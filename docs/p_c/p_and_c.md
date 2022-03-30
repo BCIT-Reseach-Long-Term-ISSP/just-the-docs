@@ -6,7 +6,7 @@ permalink: /docs/power-comm/other
 has_toc: false
 ---
 
-# Gravity Sensors
+# Power and Communication team
 
-The inventory of Gravity sensors in use or have been considered to be used by our team. 
+Documentation section of the Power and Communication team. 
 {: .fs-6 .fw-300 }
