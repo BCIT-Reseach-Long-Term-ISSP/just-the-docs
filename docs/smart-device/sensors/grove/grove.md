@@ -5,6 +5,7 @@ has_children: true
 permalink: /docs/sensors/grove
 has_toc: false
 parent: Sensors
+grand_parent: Smart Device
 ---
 
 # Grove Sensors
